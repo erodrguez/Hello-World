@@ -11,7 +11,3 @@ Elise's GitHub
 ### *Description*
 Creating a sample repository to get introduced to GitHub and what it entales.
 #### *How to Run Program*
-Hello_World/
-|___
-      |___ README.md
-      |___ 
