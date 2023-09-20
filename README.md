@@ -1,5 +1,5 @@
 # **Table of contents**
-- ==Project Title==
+- Project Title
 - Description
 - How to Run Program
 - Files Used
