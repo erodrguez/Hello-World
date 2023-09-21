@@ -26,9 +26,8 @@ Creating a sample repository to get introduced to GitHub and what it entales.
 Hello_World/
 └── 
     │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+    │── Hello_World
+    
 
 ---
    
