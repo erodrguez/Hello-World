@@ -29,7 +29,22 @@ Hello_World/
     │── pgmname1.R
     │── filename1.csv
     │── examples.html
+
+---
    
 ##### Files Used
 
 [Teachers Sample] (https://github.com/kristinearens/Hello_World)
+[Introduction/Skills] (https://github.com/erodrguez/skills-introduction-to-github)
+
+---
+
+###### Additional Documenation
+
+None used.
+
+---
+
+####### Versioning
+
+Throught my code the only major changes I will be making is to how to run the program imputing this is where I am struggling a bit.
