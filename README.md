@@ -1,11 +1,11 @@
-# **Table of contents**
+# *Table of contents*
 
-- *Project Title*
-- *Description*
-- *How to Run Program*
-- *Files Used*
-- *Additional Documenation*
-- *Versioning*
+- **Project Title**
+- **Description**
+- **How to Run Program**
+- **Files Used**
+- **Additional Documenation**
+- **Versioning**
 
 ---
 
