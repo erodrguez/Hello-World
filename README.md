@@ -1,27 +1,27 @@
 # **Table of contents**
 
-- Project Title
-- Description
-- How to Run Program
-- Files Used
-- Additional Documenation
-- Versioning
+- *Project Title*
+- *Description*
+- *How to Run Program*
+- *Files Used*
+- *Additional Documenation*
+- *Versioning*
 
 ---
 
-## *Project Title*
+## Project Title
 
 Elise's GitHub
 
 ---
 
-### *Description*
+### Description
 
 Creating a sample repository to get introduced to GitHub and what it entales.
 
 ---
 
-#### *How to Run Program*
+#### How to Run Program
 
 Hello_World/
 └── 
@@ -30,4 +30,6 @@ Hello_World/
     │── filename1.csv
     │── examples.html
    
-##### *Files Used*
+##### Files Used
+
+[Teachers Sample] (https://github.com/kristinearens/Hello_World)
